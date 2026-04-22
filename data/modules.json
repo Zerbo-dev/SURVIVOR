@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "titre": "ALGEBRE1",
+        "cover": [
+            "assets\/img1.jpg"
+        ],
+        
+        "categorie": "semestre1"
+        
+    },
+    {
+        "id": 2,
+        "titre": "ALGEBRE2",
+        "cover": [
+            "assets\/img2.jpg"
+        ],
+        
+        "categorie": "semestre2"
+        
+    },
+    {
+        "id": 3,
+        "titre": "ANALYSE1",
+        "cover": [
+            "assets\/img3.jpg"
+        ],
+        
+        "categorie": "semestre1"
+        
+    },
+    {
+        "id": 4,
+        "titre": "ANALYSE2",
+        "cover": [
+            "assets\/t-shirt\/img4.jpg"
+        ],
+        
+        "categorie": "semestre2"
+        
+    }
+    
+]

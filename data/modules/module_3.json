@@ -1,0 +1,45 @@
+{
+    "ressources": [
+        {
+            "id": "1774860791294",
+            "titre": "aide",
+            "lien": "https:\/\/j.ki",
+            "categorie": "cours",
+            "type": "",
+            "description": "",
+            "auteur": "zerbo ben",
+            "auteur_id": 1,
+            "date": "2026-03-30 08:53:11",
+            "statut": "valide",
+            "date_validation": "2026-03-30 08:55:56"
+        }
+    ],
+    "posts": [
+        {
+            "id": "1774860662640",
+            "titre": "u",
+            "contenu": "nn,,,,nbcvbn,",
+            "auteur": "zerbo ben",
+            "auteur_id": 1,
+            "date": "2026-03-30 08:51:02",
+            "reponses": []
+        },
+        {
+            "id": "1774860676147",
+            "titre": "nn",
+            "contenu": "n,;;;;,n",
+            "auteur": "zerbo ben",
+            "auteur_id": 1,
+            "date": "2026-03-30 08:51:16",
+            "reponses": [
+                {
+                    "id": "1774860708756",
+                    "contenu": "balec",
+                    "auteur": "zerbo ben",
+                    "auteur_id": 1,
+                    "date": "2026-03-30 08:51:48"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "ressources": [
+        {
+            "id": "1733000001001",
+            "titre": "Cours Algèbre 1 — Chapitre 1 : Logique et ensembles",
+            "lien": "https:\/\/drive.google.com\/file\/d\/EXEMPLE\/view",
+            "categorie": "cours",
+            "type": "PDF",
+            "description": "Introduction à la logique propositionnelle et théorie des ensembles.",
+            "auteur": "Admin",
+            "auteur_id": 1,
+            "date": "2025-12-04 20:00:00",
+            "statut": "valide",
+            "date_validation": "2025-12-04 20:00:00"
+        },
+        {
+            "id": "1733000001002",
+            "titre": "TD1 — Exercices sur les ensembles",
+            "lien": "https:\/\/drive.google.com\/file\/d\/EXEMPLE2\/view",
+            "categorie": "td",
+            "type": "PDF",
+            "description": "",
+            "auteur": "Admin",
+            "auteur_id": 1,
+            "date": "2025-12-04 20:05:00",
+            "statut": "valide",
+            "date_validation": "2025-12-04 20:05:00"
+        },
+        {
+            "id": "1733000001003",
+            "titre": "Cours vidéo YouTube — Introduction aux matrices",
+            "lien": "https:\/\/www.youtube.com\/watch?v=EXEMPLE",
+            "categorie": "annexes",
+            "type": "video",
+            "description": "Vidéo explicative très claire sur les matrices et opérations de base.",
+            "auteur": "zerbo ben",
+            "auteur_id": 1,
+            "date": "2025-12-05 10:30:00",
+            "statut": "valide",
+            "date_validation": "2026-03-30 08:53:58"
+        }
+    ],
+    "posts": [
+        {
+            "id": "1733001234567",
+            "titre": "Quelqu'un a le corrigé du TD3 ?",
+            "contenu": "J'ai du mal avec l'exercice 4, quelqu'un peut m'aider ?",
+            "auteur": "zerbo ben",
+            "auteur_id": 1,
+            "date": "2025-12-05 14:22:00",
+            "reponses": [
+                {
+                    "id": "1733001299001",
+                    "contenu": "Regarde dans les ressources annexes, il y a un corrigé partiel.",
+                    "auteur": "Admin",
+                    "auteur_id": 1,
+                    "date": "2025-12-05 15:00:00"
+                },
+                {
+                    "id": "1774684298211",
+                    "contenu": "on s&#039;en fout",
+                    "auteur": "zerbo ben",
+                    "auteur_id": 1,
+                    "date": "2026-03-28 07:51:38"
+                },
+                {
+                    "id": "1774861691559",
+                    "contenu": "j",
+                    "auteur": "zerbo ben",
+                    "auteur_id": 1,
+                    "date": "2026-03-30 09:08:11"
+                }
+            ]
+        },
+        {
+            "id": "1774679756171",
+            "titre": "aide",
+            "contenu": "exo 5",
+            "auteur": "zerbo ben",
+            "auteur_id": 1,
+            "date": "2026-03-28 06:35:56",
+            "reponses": []
+        }
+    ]
+}
