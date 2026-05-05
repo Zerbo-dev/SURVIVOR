@@ -65,3 +65,39 @@ Chaque module contient :
 ---
 
 ## 📁 Structure du projet (exemple Next.js)
+
+
+
+│   admin.php
+│   connexion.php
+│   deconnexion.php
+│   index.php
+│   inscription.php
+│   module.php
+│   Nouvelle image bitmap.bmp
+│   proposer_ressource.php
+│   README.md
+│
+├───assets
+│       .gitignore
+│       img1.jpg
+│
+├───data
+│   │   modules.json
+│   │   users.json
+│   │
+│   └───modules
+│           module_1.json
+│           module_2.json
+│           module_3.json
+│
+└───includes
+    │   footer.php
+    │   header.php
+    │
+    └───compte
+            header.php
+
+
+
+
